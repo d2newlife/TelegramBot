@@ -1,4 +1,4 @@
-# Duane's Professional AI Helper 🤖
+# AI Helper 🤖
 
 A Telegram bot that serves as a professional AI assistant, designed to help users with various tasks through natural conversation. This bot is currently in development and ready for AI integration.
 
